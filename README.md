@@ -1,5 +1,5 @@
 # OS---HW1
-OS HW Assignment 1 - Prof. Guang
+OS HW Assignment 1 - Prof. Guan
 
 The commands provided by Prof. Guang worked in Ubuntu 21.1,
 installed on virtualbox:
